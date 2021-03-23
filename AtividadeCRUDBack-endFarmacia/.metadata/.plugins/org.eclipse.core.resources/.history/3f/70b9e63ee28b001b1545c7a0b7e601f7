@@ -1,0 +1,5 @@
+package com.drograriasFabinho.farmacia.Repository;
+
+public interface ProdutoRepository {
+
+}

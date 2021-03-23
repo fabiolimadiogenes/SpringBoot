@@ -1,0 +1,5 @@
+package com.drograriasFabinho.farmacia.model;
+
+public class Categoria {
+
+}
